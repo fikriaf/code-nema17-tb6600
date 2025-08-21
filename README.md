@@ -1,7 +1,7 @@
 # code-nema17-tb6600
 
 ## Electrical Circuit
-![Stepper Motor Electrical Circuit](../code-nema17-tb6600/electrical-circuits.jpg)
+![Stepper Motor Electrical Circuit](code-nema17-tb6600/electrical-circuits.jpg)
 
 [![Arduino](https://img.shields.io/badge/platform-Arduino-blue?logo=arduino)](https://www.arduino.cc/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
